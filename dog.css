@@ -1,0 +1,11 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+div{
+    display: flex;
+
+}
+p{
+    margin-left: 10px;
+}

@@ -1,0 +1,19 @@
+#legend1{
+    border:2px solid #5fbaed;
+}
+#wholelegend{
+    border:2px solid #434343;
+}
+legend{
+    font-weight: bolder;
+}
+textarea{
+    width: 100%;
+}
+select{
+    background-color: palevioletred;
+}
+button{
+    background-color: mediumblue;
+    color: white;
+}
